@@ -6,6 +6,14 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong>Social bots for online public health interventions</strong><br/>
+A. Deb, A. Majmundar, S. Seo, A. Matsui, R. Tandon, S. Yan, J. Allem, and E. Ferrara<br/>
+2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'18)
+
+<strong>SoundAuth: Secure zero-effort two-factor authentication based on audio signals</strong><br/>
+M. Wang, W.-T. Zhu, S. Yan, and Q. Wang<br/>
+6th IEEE Conference on Communications and Network Security (CNS'18)
+
 <strong>DynaEgo: Privacy-preserving collaborative filtering recommender system based on social-aware differential privacy</strong><br/>
 S. Yan, S. Pan, W.-T. Zhu, and K. Chen<br/>
 18th International Conference on Information and Communication Security (ICICS'16)
