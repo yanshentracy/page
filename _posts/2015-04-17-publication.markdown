@@ -6,6 +6,10 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong>Discovering Latent Psychological Structures from Self-report Assessments of Hospital Workers</strong><br/>
+H.-T Kao, H. Hosseinmardi, S. Yan, M. Hasan, S. Narayanan, K. Lerman and E. Ferrara<br/>
+5th International Conference on Behavioral, Economic, and Socio-Cultural Computing  (BESC'18)
+
 <strong>Social bots for online public health interventions</strong><br/>
 A. Deb, A. Majmundar, S. Seo, A. Matsui, R. Tandon, S. Yan, J. Allem, and E. Ferrara<br/>
 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'18)
