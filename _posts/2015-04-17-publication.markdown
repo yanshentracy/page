@@ -6,10 +6,14 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong>Understanding Cyberbullying on Instagram and Ask.fm via Social Role Detection</strong><br/>
+H.-T Kao, S. Yan, D. Huang, N. Bartley, H. Hosseinmardi, and E. Ferrara<br/>
+4th Workshop on Computational Methods in Online Misbehavior Co-located with The Web Conference (CyberSafety'19)
+
 <strong>Discovering Latent Psychological Structures from Self-report Assessments of Hospital Workers</strong><br/>
 H.-T Kao, H. Hosseinmardi, S. Yan, M. Hasan, S. Narayanan, K. Lerman and E. Ferrara<br/>
 5th International Conference on Behavioral, Economic, and Socio-Cultural Computing  (BESC'18)
-<i>(Distinguished Resarch on Digital Humanities)</i>
+<i>(Distinguished Research on Digital Humanities)</i>
 
 <strong>Social bots for online public health interventions</strong><br/>
 A. Deb, A. Majmundar, S. Seo, A. Matsui, R. Tandon, S. Yan, J. Allem, and E. Ferrara<br/>
