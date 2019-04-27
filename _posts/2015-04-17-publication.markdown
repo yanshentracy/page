@@ -6,6 +6,10 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong>Estimating Individualized Daily Self-Reported Affect with Wearable Sensors</strong><br/>
+S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman and E. Ferrara<br/>
+7th IEEE International Conference on Healthcare Informatics (ICHI'19)
+
 <strong>Understanding Cyberbullying on Instagram and Ask.fm via Social Role Detection</strong><br/>
 H.-T Kao, S. Yan, D. Huang, N. Bartley, H. Hosseinmardi, and E. Ferrara<br/>
 4th Workshop on Computational Methods in Online Misbehavior Co-located with The Web Conference (CyberSafety'19)
