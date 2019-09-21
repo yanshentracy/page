@@ -183,7 +183,7 @@ social:
     share: false
     
   - name: "Google Scholar"
-    icon: "/assets/gs.jpg"
+    icon: google-scholar
     username: Shen Yan
     url: https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra
     desc: Follow me on Google Scholar
