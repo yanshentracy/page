@@ -181,6 +181,13 @@ social:
     url:
     desc: Share to Hacker News
     share: false
+    
+  - name: "Google Scholar"
+    icon: "/assets/gs.jpg"
+    username: Shen Yan
+    url: https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra
+    desc: Follow me on Google Scholar
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
