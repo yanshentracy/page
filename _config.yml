@@ -93,7 +93,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Shen Yan
+    username: LinkedIn
     url: https://www.linkedin.com/in/shen-yan-147420101/
     desc: Connect with me on LinkedIn
     share: true
@@ -184,7 +184,7 @@ social:
     
   - name: "Google Scholar"
     icon: google-scholar
-    username: Shen Yan
+    username: Google Scholar
     url: https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra
     desc: Follow me on Google Scholar
     share: false
