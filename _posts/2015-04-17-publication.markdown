@@ -6,6 +6,10 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong>Political polarization drives online conversations about COVID-19 in the United States</strong><br/>
+J. Jiang, E. Chen, S. Yan, K. Lerman, and E. Ferrara<br/>
+Human Behavior and Emerging Technologies
+
 <strong>Affect Estimation with Wearable Sensors</strong><br/>
 S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman and E. Ferrara<br/>
 Journal of Healthcare Informatics Research
