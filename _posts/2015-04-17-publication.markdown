@@ -6,6 +6,14 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
+S. Yan, H.-T Kao, and E. Ferrara<br/>
+29th ACM International Conference on Information and Knowledge Management (CIKM'20)
+
+<strong>Mitigating Biases in Multimodal Personality Assessment</strong><br/>
+S. Yan, D. Huang, and M. Soleymani <br/>
+22nd ACM International Conference on Multimodal Interaction (ICMI'20)
+
 <strong>Political polarization drives online conversations about COVID-19 in the United States</strong><br/>
 J. Jiang, E. Chen, S. Yan, K. Lerman, and E. Ferrara<br/>
 Human Behavior and Emerging Technologies
