@@ -6,6 +6,10 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
+<strong> User-Based Collaborative Filtering Mobile Health System </strong><br/>
+H.-T Kao, S. Yan, H. Hosseinmardi, S. Narayanan, K. Lerman and E. Ferrara<br/>
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IWMUT)
+
 <strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
 S. Yan, H.-T Kao, and E. Ferrara<br/>
 29th ACM International Conference on Information and Knowledge Management (CIKM'20)
