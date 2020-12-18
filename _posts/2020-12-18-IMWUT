@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "User-Based Collaborative Filtering Mobile Health System"
+link:  "https://dl.acm.org/doi/10.1145/3432703"
+file:  
+date:  2020-12-18 17:07:19
+authors: H.-T Kao, <strong>S. Yan</strong>, H. Hosseinmardi, S. Narayanan, K. Lerman, and E. Ferrara
+pub: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+page: 
+categories: pub
+---
+<p><strong>Abstract:</strong> Mobile health systems predict health conditions based on multimodal signals. Users are often reluctant to provide their health status over privacy concerns. It is challenging to make health predictions without sufficient historical data from the users. In this paper, we propose a user-based collaborative filtering mobile health system. The system requests users to provide a few health labels. These labels are used to determine cohort similarity and discarded afterward to ensure privacy protection. The cohorts are designed to maximize user similarity across health labels, variable relationships, and sensor data. Our system predicts users based on the health information from their cohort. We empirically evaluate the system by conducting a ten-week longitudinal study to assess the health conditions of 212 hospital workers using mobile devices, wearables, and sensors. The results show successful cohort assignments with five health labels. Health predictions achieve promising performance without historical data. Our system demonstrates strong interpretability, predictability, and usability.
