@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Research Projects"
+date:   2015-04-17 08:43:59
+categories: post
+link: ""
+cover:  "/assets/publication.jpg"
+---
+#### Fairness-Aware Machine Learning for Multimodal Human Behavior Data
+Behavioral modeling has found broad applicabilitiy in many decision-making domains, including health and job performance evaluation, financial and employment scrutiny, etc. Hence, guaranteeing model fairness in behavioral modeling is an open challenge for real-world applications. We propose and develop machine learning models that will identify, account for, and mitigate the biases of multimodal human behavior modeling methods.
+
+Relevant publications: <a href="https://dl.acm.org/doi/10.1145/3340531.3411980">CIKM'20</a>, <a href="https://dl.acm.org/doi/10.1145/3382507.3418889">ICMI'20</a>
+
+
+#### Tracking Individual pErformance with Sensors (TILES)
+<a href = "https://sail.usc.edu/tiles/">TILES</a> is a project focused on the analysis of stress, task performance, behavior, and other factors pertaining to professionals engaged in a high-stress workplace environment. Biological, environmental, and contextual data is collected from hospital nurses and staff both in the workplace and at home over a period of 10 weeks. Labels of human experience are collected using a variety of psychologically validated questionnaires sampled on a daily basis at different times during the day.
+
+We design machine learning models to estimate human behaviors from the sensory data, which are aiming to provide promising solutions to generalizable, trust, and fair mobile health systems.
+
+Relevant publications: <a href="https://ieeexplore.ieee.org/abstract/document/8697325">BESC'18</a>, <a href="https://ieeexplore.ieee.org/document/8904691">ICHI'19</a>, 
+<a href="https://link.springer.com/article/10.1007%2Fs41666-019-00066-z">JHIR</a>, <a href="https://dl.acm.org/doi/10.1145/3432703">IMWUT</a>
