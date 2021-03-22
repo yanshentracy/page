@@ -2,7 +2,7 @@
 layout: post
 title:  "Publications"
 date:   2015-04-17 08:43:59
-categories: post
+categories: post_temp
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
