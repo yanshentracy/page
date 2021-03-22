@@ -17,7 +17,7 @@ S. Yan, H.-T Kao, and E. Ferrara<br/>
 S. Yan, D. Huang, and M. Soleymani <br/>
 22nd ACM International Conference on Multimodal Interaction (ICMI'20)</p>
 
-#### Healthcare Informatics
+#### Human Behavior Understanding & Healthcare Informatics
 - <p><strong> User-Based Collaborative Filtering Mobile Health System </strong><br/>
 H.-T Kao, S. Yan, H. Hosseinmardi, S. Narayanan, K. Lerman and E. Ferrara<br/>
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IWMUT)</p>
