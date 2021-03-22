@@ -6,7 +6,7 @@ categories: post
 link: "/publications/"
 cover:  "/assets/publication.jpg"
 ---
-See full list of publications <a href="/publications/">here</a>. [<a href="https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra)">Google Scholar</a>]
+See full list of publications <a href="/page/publications/">here</a>. [<a href="https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra)">Google Scholar</a>]
 
 #### AI Fairness
 - <p><strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
