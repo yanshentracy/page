@@ -9,6 +9,10 @@ cover:  "/assets/publication.jpg"
 See full list of publications <a href="/page/publications/">here</a>. [<a href="https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra)">Google Scholar</a>]
 
 #### AI Fairness
+- <p><strong> Mitigating the Bias of Heterogeneous Human Behavior in Affective Computing </strong><br/>
+S. Yan, H.-T Kao, S. Narayanan, K. Lerman, and E. Ferrara<br/>
+9th International Conference on Affective Computing \& Intelligent Interaction (ACII'21)</p>
+
 - <p><strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
 S. Yan, H.-T Kao, and E. Ferrara<br/>
 29th ACM International Conference on Information and Knowledge Management (CIKM'20)</p>
@@ -19,11 +23,11 @@ S. Yan, D. Huang, and M. Soleymani <br/>
 
 #### Human Behavior Understanding & Healthcare Informatics
 - <p><strong> User-Based Collaborative Filtering Mobile Health System </strong><br/>
-H.-T Kao, S. Yan, H. Hosseinmardi, S. Narayanan, K. Lerman and E. Ferrara<br/>
+H.-T Kao, S. Yan, H. Hosseinmardi, S. Narayanan, K. Lerman, and E. Ferrara<br/>
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IWMUT)</p>
 
 - <p><strong>Estimating Individualized Daily Self-Reported Affect with Wearable Sensors</strong><br/>
-S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman and E. Ferrara<br/>
+S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman, and E. Ferrara<br/>
 7th IEEE International Conference on Healthcare Informatics (ICHI'19)</p>
 
 #### Social Networks
