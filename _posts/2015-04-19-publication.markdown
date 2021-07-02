@@ -10,7 +10,7 @@ See full list of publications <a href="/page/publications/">here</a>. [<a href="
 
 #### AI Fairness
 - <p><strong> Mitigating the Bias of Heterogeneous Human Behavior in Affective Computing </strong><br/>
-S. Yan, H.-T Kao, S. Narayanan, K. Lerman, and E. Ferrara<br/>
+S. Yan, H.-T Kao, K. Lerman, S. Narayanan, and E. Ferrara<br/>
 9th International Conference on Affective Computing & Intelligent Interaction (ACII'21)</p>
 
 - <p><strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
