@@ -9,11 +9,11 @@ cover:  "/assets/publication.jpg"
 See full list of publications <a href="/page/publications/">here</a>. [<a href="https://scholar.google.com/citations?user=U_9LopYAAAAJ&hl=en&oi=sra)">Google Scholar</a>]
 
 #### AI Fairness
-- <p><strong> FairFed: Enabling Group Fairness in Federated Learning </strong>
+- <p><strong> FairFed: Enabling Group Fairness in Federated Learning </strong><br/>
 Y.-H. Ezzeldin*, S. Yan*, C. He, E. Ferrara, S. Avestimehr<br/>
 NeurIPS 2021 Workshop on Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership</p>
 
-- <p><strong> Mitigating the Bias of Heterogeneous Human Behavior in Affective Computing </strong>
+- <p><strong> Mitigating the Bias of Heterogeneous Human Behavior in Affective Computing </strong><br/>
 S. Yan, H.-T Kao, K. Lerman, S. Narayanan, and E. Ferrara<br/>
 9th International Conference on Affective Computing & Intelligent Interaction (ACII'21)</p>
 
