@@ -17,7 +17,7 @@ NeurIPS 2021 Workshop on Federated Learning: Privacy, Fairness, Robustness, Pers
 S. Yan, H.-T Kao, K. Lerman, S. Narayanan, and E. Ferrara<br/>
 9th International Conference on Affective Computing & Intelligent Interaction (ACII'21)</p>
 
-- <p><strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong><br/>
+- <p><strong> Fair Class Balancing: Enhancing Model Fairness without Observing Sensitive Attributes </strong> <a href="https://github.com/ShenYanUSC/Fair_Class_Balancing/">[code]</a><br/>
 S. Yan, H.-T Kao, and E. Ferrara<br/>
 29th ACM International Conference on Information and Knowledge Management (CIKM'20)</p>
 
