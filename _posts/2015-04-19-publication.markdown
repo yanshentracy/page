@@ -36,7 +36,7 @@ S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman, and E. Ferrara<br/>
 
 #### Social Networks
 - <p><strong>What Does Perception Bias on Social Networks Tell Us About Friend Count Satisfaction?</strong> <a href="https://github.com/facebookresearch/FriendshipSatisfactionDiversity/">[code]</a><br/>
-S. Yan, K.-M. Altenburger, Y.-C. Wang, J. Cheng<br/>
+S. Yan, K.M. Altenburger, Y.-C. Wang, J. Cheng<br/>
 The ACM Web Conference 2022 </p>
 
 - <p><strong>Political polarization drives online conversations about COVID-19 in the United States</strong><br/>
