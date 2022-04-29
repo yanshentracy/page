@@ -21,7 +21,7 @@ S. Yan, H.-T Kao, K. Lerman, S. Narayanan, and E. Ferrara<br/>
 S. Yan, H.-T Kao, and E. Ferrara<br/>
 29th ACM International Conference on Information and Knowledge Management (CIKM'20)</p>
 
-- <p><strong>Mitigating Biases in Multimodal Personality Assessment</strong><br/>
+- <p><strong>Mitigating Biases in Multimodal Personality Assessment</strong> <a href="https://github.com/ShenYanUSC/Multimodal_Fairness">[code]</a><br/>
 S. Yan, D. Huang, and M. Soleymani <br/>
 22nd ACM International Conference on Multimodal Interaction (ICMI'20)</p>
 
@@ -35,6 +35,10 @@ S. Yan, H. Hosseinmardi, H.-T Kao, S. Narayanan, K. Lerman, and E. Ferrara<br/>
 7th IEEE International Conference on Healthcare Informatics (ICHI'19)</p>
 
 #### Social Networks
+- <p><strong>What Does Perception Bias on Social Networks Tell Us About Friend Count Satisfaction?</strong> <a href="https://github.com/facebookresearch/FriendshipSatisfactionDiversity/">[code]</a><br/>
+S. Yan, K.-M. Altenburger, Y.-C. Wang, J. Cheng<br/>
+The ACM Web Conference 2022 </p>
+
 - <p><strong>Political polarization drives online conversations about COVID-19 in the United States</strong><br/>
 J. Jiang, E. Chen, S. Yan, K. Lerman, and E. Ferrara<br/>
 Human Behavior and Emerging Technologies </p>
