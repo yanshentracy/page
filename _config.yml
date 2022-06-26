@@ -86,10 +86,10 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: 
+    username: GitHub
+    url: https://github.com/ShenYanUSC
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
