@@ -11,7 +11,7 @@ See full list of publications <a href="/page/publications/">here</a>. [<a href="
 #### AI Fairness
 - <p><strong> FairFed: Enabling Group Fairness in Federated Learning </strong><br/>
 Y.-H. Ezzeldin*, S. Yan*, C. He, E. Ferrara, S. Avestimehr<br/>
-37th AAAI Conference on Artificial Intelligence <br/>
+37th AAAI Conference on Artificial Intelligence (AAAI'23)<br/>
 NeurIPS 2021 Workshop on Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership</p>
 
 - <p><strong> Mitigating the Bias of Heterogeneous Human Behavior in Affective Computing </strong><br/>
