@@ -9,7 +9,7 @@ cover:  "/assets/publication.jpg"
 #### Fairness-Aware Machine Learning for Multimodal Human Behavior Data
 Behavioral modeling has found broad applicabilitiy in many decision-making domains, including health and job performance evaluation, financial and employment scrutiny, etc. Hence, guaranteeing model fairness in behavioral modeling is an open challenge for real-world applications. We propose and develop machine learning models that will identify, account for, and mitigate the biases of multimodal human behavior modeling methods.
 
-Relevant publications: <a href="https://dl.acm.org/doi/10.1145/3340531.3411980">CIKM'20</a>, <a href="https://dl.acm.org/doi/10.1145/3382507.3418889">ICMI'20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9597439">ACII'21</a> 
+Relevant publications: <a href="https://dl.acm.org/doi/10.1145/3340531.3411980">CIKM'20</a>, <a href="https://dl.acm.org/doi/10.1145/3382507.3418889">ICMI'20</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9597439">ACII'21</a>, <a href = "https://arxiv.org/abs/2110.00857">AAAI'23</a>
 
 
 #### Tracking Individual pErformance with Sensors (TILES)
